@@ -2,4 +2,4 @@
 
 </script>
 
-<h2>Photo</h2>
+<h2>Upload Photo</h2>
