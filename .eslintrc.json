@@ -20,9 +20,8 @@
         "@typescript-eslint"
     ],
     "rules": {
-      "semi": "off",
-      "@typescript-eslint/semi": "error",
-      "indent": "off",
-      "@typescript-eslint/indent": "error"
+      "semi": ["error", "always"],
+      "indent": ["error", 4],
+      "quotes": ["error", "double"]
     }
 }
