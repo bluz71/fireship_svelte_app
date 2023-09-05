@@ -31,7 +31,7 @@ function userStore() {
         const { subscribe } = writable<User | null>(null);
         return {
             subscribe,
-        }
+        };
     }
 
     const { subscribe } = writable(auth?.currentUser ?? null, (set) => {
