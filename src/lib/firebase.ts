@@ -11,7 +11,7 @@ const firebaseConfig = {
     projectId: "fireship-svelte-app",
     storageBucket: "fireship-svelte-app.appspot.com",
     messagingSenderId: "601595731031",
-    appId: "1:601595731031:web:b7e8fbcab61b3a2aefd712"
+    appId: "1:601595731031:web:b7e8fbcab61b3a2aefd712",
 };
 
 // Initialize Firebase.

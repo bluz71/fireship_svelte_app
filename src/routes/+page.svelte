@@ -3,5 +3,5 @@
   Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation
 </p>
 <a href="/hello">Hello</a>
-<hr>
+<hr />
 <button class="btn bg-indigo-700 text-stone-100 hover:bg-indigo-500">Button</button>
